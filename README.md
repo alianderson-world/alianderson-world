@@ -41,6 +41,8 @@
 
 <br><br>
 
+## Skills
+
 ⩥ Developer Full stack 
 - Web: <br>
   Html + css + js
