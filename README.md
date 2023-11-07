@@ -1,5 +1,7 @@
 ### Hello World! Welcome to my world 🌐
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alianderson-world&label=Profile%20views&color=0e75b6&style=flat" alt="alianderson-world" /> </p>
+
 <div style="display: inline_block">
     <br>
     <img align="center" alt="world-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +20,7 @@
     <img align="center" alt="world-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="world-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="world-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="world-afterEffect" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <br>
     <img align="center" alt="world-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img align="center" alt="world-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="world-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -27,11 +29,9 @@
     <img align="center" alt="world-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
     <img align="center" alt="world-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img align="center" alt="world-afterEffect" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" alt="world-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" alt="world-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img align="center" alt="world-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
     <img align="center" alt="world-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <br>
     <img align="center" alt="world-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
     <img align="center" alt="world-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
     <img align="center" alt="world-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
@@ -41,27 +41,60 @@
 
 <br><br>
 
-⩥ Desenvolvedor Full stack 
-(Html + css + js | React + frameworks | Typescript | Python | MySql | Node | PHP | ++) 
+⩥ Developer Full stack 
+- Web: <br>
+  Html + css + js
+  
+<br>
 
-⩥ Aprendendo:
+- Front-end: <br>
+  React + frameworks | Typescript
+  
+<br>
+
+- Back-end: <br>
+  Python | MySql | Node | PHP | ++ 
+
+⩥ Learning... <br>
 C# - .NET - Scrum
 
-⩥ Sistema IA, Chatbots e Automações
+⩥ System <br>
+IA - Chatbots - Automation
 
-⩥ Marketing Digital - Completo
+⩥ Marketing Digital <br>
+Full
 
-⩥ Designer 
-(Adobe Photoshop + Adobe Premiere + Adobe After Effects) 
+⩥ Designer <br>
+Adobe Photoshop + Adobe Premiere + Adobe After Effects
 
-⩥ Business
-(Branding empresa/marca - completo)
+⩥ Business <br>
+Branding - Company/brand - Full
 
-⩥ Social media
-(Gestor de mídias -  redes sociais) 
+⩥ Social media <br>
+Media manager - Social Networks
 
-⩥ Gestor de tráfego
-(Tráfego pago e orgânico)
+⩥ Traffic manager <br>
+Paid and organic traffic
 
 ⩥ MEI - World A.I
+
+<br><br>
+
+<p align="left"> <a href="https://twitter.com/alianderson_world" target="blank"><img src="https://img.shields.io/twitter/follow/alianderson_world?logo=twitter&style=for-the-badge" alt="alianderson_world" /></a> </p>
+
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://codepen.io/alianderson-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alianderson-world" height="30" width="40" /></a>
+<a href="https://twitter.com/alianderson_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alianderson_world" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alianderson-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alianderson-world" height="30" width="40" /></a>
+<a href="https://dribbble.com/alianderson-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alianderson-world" height="30" width="40" /></a>
+<a href="https://discord.gg/alianderson.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alianderson.world" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alianderson-world&show_icons=true&locale=en&layout=compact" alt="alianderson-world" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alianderson-world&show_icons=true&theme=dark&title_color=ffffff&text_color=2a97fe&bg_color=212121&hide_border=true&locale=en" alt="alianderson-world" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alianderson-world&" alt="alianderson-world" /></p>
+
 
