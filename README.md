@@ -95,7 +95,7 @@
 <a href="https://discord.gg/alianderson.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alianderson.world" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br><br><br>
 
 ## Stats 📈
 
