@@ -56,33 +56,37 @@
   Python | MySql | Node | PHP | ++ 
 
 ⩥ Learning... <br>
-C# - .NET - Scrum
+- C# - .NET - Scrum
 
 ⩥ System <br>
-IA - Chatbots - Automation
+- IA - Chatbots - Automation
 
 ⩥ Marketing Digital <br>
-Full
+- Full
 
 ⩥ Designer <br>
-Adobe Photoshop + Adobe Premiere + Adobe After Effects
+- Adobe Photoshop + Adobe Premiere + Adobe After Effects
 
 ⩥ Business <br>
-Branding - Company/brand - Full
+- Branding - Company/brand - Full
 
 ⩥ Social media <br>
-Media manager - Social Networks
+- Media manager - Social Networks
 
 ⩥ Traffic manager <br>
-Paid and organic traffic
+- Paid and organic traffic
 
 ⩥ MEI - World A.I
 
 <br><br>
 
-<p align="left"> <a href="https://twitter.com/alianderson_world" target="blank"><img src="https://img.shields.io/twitter/follow/alianderson_world?logo=twitter&style=for-the-badge" alt="alianderson_world" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alianderson-world&show_icons=true&locale=en&?layout=defaul" alt="alianderson-world" /></p>
+
+
 
 <h3 align="left">Socials:</h3>
+
+<p align="left"> <a href="https://twitter.com/alianderson_world" target="blank"><img src="https://img.shields.io/twitter/follow/alianderson_world?logo=twitter&style=for-the-badge" alt="alianderson_world" /></a> </p>
 <p align="left">
 <a href="https://codepen.io/alianderson-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alianderson-world" height="30" width="40" /></a>
 <a href="https://twitter.com/alianderson_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alianderson_world" height="30" width="40" /></a>
@@ -91,10 +95,9 @@ Paid and organic traffic
 <a href="https://discord.gg/alianderson.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alianderson.world" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alianderson-world&show_icons=true&locale=en&layout=compact" alt="alianderson-world" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alianderson-world&show_icons=true&theme=dark&title_color=ffffff&text_color=2a97fe&bg_color=212121&hide_border=true&locale=en" alt="alianderson-world" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alianderson-world&" alt="alianderson-world" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alianderson-world&show_icons=true&theme=dark&title_color=ffffff&text_color=2a97fe&bg_color=212121&hide_border=true&locale=en" alt="alianderson-world" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alianderson-world&" alt="alianderson-world" /></p>
 
 
