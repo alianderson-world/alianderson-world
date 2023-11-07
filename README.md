@@ -97,6 +97,8 @@
 
 <br><br>
 
+## Stats 📈
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alianderson-world&show_icons=true&theme=dark&title_color=ffffff&text_color=2a97fe&bg_color=212121&hide_border=true&locale=en" alt="alianderson-world" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alianderson-world&" alt="alianderson-world" /></p>
 
