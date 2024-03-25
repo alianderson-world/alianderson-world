@@ -1,4 +1,4 @@
-### Hello World! Welcome to my world 🌐
+### Hello, Welcome to my world. See my Contents! 🌐
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianderson-world&label=Profile%20views&color=0e75b6&style=flat" alt="alianderson-world" /> </p>
 
